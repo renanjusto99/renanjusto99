@@ -2,8 +2,9 @@
 
 
 <p>
-  Sou Renan Sérgio Justo Pereira, trabalho no seguimento de Gestão da Qualidade em uma empresa de Inspeção de Mercadorias em geral e em meu tempo livre estudo todos os conceitos de Desenvolvimento Front-end através do JavaScript, onde então caminho atualmente nos aprendizados de Jquery e Bootstrap e estou também chegando no fim do meu curso Superior Tecnológico de Análise e Desenvolvimento de Sistemas. Acredito que toda minha bagagem no ambito de Gestão da Qualidade ja me agregam um grande valor na área de Desenvolvimento, por conta das documentações, padronizações, etc e acredito que em breve eu consiga alcançar o patamar de Desenvolvedor Full Stack unindo todos os conceitos e estratégios de ambas as áreas.
+  Sou Renan Sérgio Justo Pereira, trabalho no seguimento de Gestão da Qualidade em uma empresa de Inspeção de Mercadorias em geral e em meu tempo livre estudo todos os conceitos de Desenvolvimento Front-end através do JavaScript e seus Frameworks, caminhando atualmente pelos aprendizados de Jquery e Bootstrap e enfim chegando no ultimo semestre de meu curso Superior Tecnológico de Análise e Desenvolvimento de Sistemas. Acredito que toda minha bagagem no ambito de Gestão da Qualidade ja me agregam um grande valor na área de Desenvolvimento, por conta das documentações, padronizações, etc e acredito que em breve eu consiga alcançar o patamar de Desenvolvedor Full Stack unindo todos os conceitos e estratégios de ambas as áreas.
 </p>
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
 <hr />
 
@@ -15,6 +16,7 @@
 | <img src="https://skillicons.dev/icons?i=html,css,javascript" /> | <img src="https://skillicons.dev/icons?i=bootstrap,jquery" /> | <img src="https://skillicons.dev/icons?i=vscode,github" /> |
 
 </div>
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
 <hr />
 
