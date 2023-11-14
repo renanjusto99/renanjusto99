@@ -53,7 +53,7 @@
 <!-- CONTATO -->
 <h3  align="center">📱 Entrem em contato ✉️</h3>
 <p align="center">
-      <a href="https://www.linkedin.com/in/renan-justo" target="_blank">
+      <a href="https://www.linkedin.com/in/renan-justo-995747168/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a> 
   <a href="https://www.instagram.com/rjusto013/" target="_blank">
