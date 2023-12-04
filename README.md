@@ -13,7 +13,7 @@
     
 |   Frontend   |    Frameworks  |    Tools    |
 |     :---:    |     :---:      |    :---:    |
-| <img src="https://skillicons.dev/icons?i=html,css,javascript" /> | <img src="https://skillicons.dev/icons?i=bootstrap,jquery" /> | <img src="https://skillicons.dev/icons?i=vscode,github" /> |
+| <img src="https://skillicons.dev/icons?i=html,css,javascript" /> | <img src="https://skillicons.dev/icons?i=bootstrap,jquery" /> | <img src="https://skillicons.dev/icons?i=vscode,github,firebase" /> |
 
 </div>
   &nbsp;&nbsp;&nbsp;&nbsp;
