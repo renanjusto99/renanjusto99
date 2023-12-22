@@ -1,24 +1,75 @@
-<h1>🤷🏻‍♂️ Quem sou eu?</h3>
+## Olá, mundo! Meu nome é <strong>Renan Justo</strong>! 👋
 
+<br>
 
-<p>
-  Sou Renan Sérgio Justo Pereira, trabalho no seguimento de Gestão da Qualidade em uma empresa de Inspeção de Mercadorias em geral e em meu tempo livre estudo todos os conceitos de Desenvolvimento Front-end através do JavaScript e seus Frameworks, caminhando atualmente pelos aprendizados de Jquery e Bootstrap e enfim chegando no ultimo semestre de meu curso Superior Tecnológico de Análise e Desenvolvimento de Sistemas. Acredito que toda minha bagagem no ambito de Gestão da Qualidade ja me agregam um grande valor na área de Desenvolvimento, por conta das documentações, padronizações, etc e acredito que em breve eu consiga alcançar o patamar de Desenvolvedor Full Stack unindo todos os conceitos e estratégios de ambas as áreas.
-</p>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="300px" width="300px" align="right">
+
+<div align="left">
+  <ul>
+    <li>🏳️ Residente em Santos-SP, Brasil.</li>
+    <li>🎓 Graduação em andamento em Análise e Desenvolvimento de Sistemas.</li>
+    <li>🧠 Estudante de Programação Front-End Web no Progamador BR.</li>
+    <li>🏀 Amo atividades esportivas como Basquete e Boxe.</li>
+    <li>💡 Atualmente trabalho no seguimento de Controle de Gestão da Qualidade em uma empresa de Inspeção de Mercadorias em Geral.</li>
+  </ul>
+</div>
+  
+&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 <hr />
 
 <div align="center">
-    <h3 align="center">🛠️ Ferramentas de Desenvolvimento 📖</h3>
+    <h3 align="center">🛠️ Linguagens de Desenvolvimento 📖</h3>
     
-|   Frontend   |    Frameworks  |    Tools    |
-|     :---:    |     :---:      |    :---:    |
-| <img src="https://skillicons.dev/icons?i=html,css,javascript,scss" /> | <img src="https://skillicons.dev/icons?i=bootstrap,jquery" /> | <img src="https://skillicons.dev/icons?i=vscode,github,firebase" /> |
+|    Front-End   |    Ferramentas   |
+|      :---:     |       :---:      |
+| <img src="https://skillicons.dev/icons?i=html,css,javascript,scss" /> | <img src="https://skillicons.dev/icons?i=vscode,github" /> |
 
 </div>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
 <hr />
+
+<div align="center">
+    <h3 align="center">🛠️ Linguagens em Aprendizado 📖</h3>
+    
+|    Frameworks  |   Backend   |
+|     :---:      |    :---:    |
+| <img src="https://skillicons.dev/icons?i=bootstrap,jquery" /> | <img src="https://skillicons.dev/icons?i=firebase" /> |
+
+</div>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+<hr />
+
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=renanjusto99&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
+        alt="Github stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanjusto99&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=renanjusto99&theme=dark&hide_border=false"
+        alt="Github stats"
+      />
+    </td>
+  </tr>
+</table>
+
 
 <!-- PROJECTS 
 <h3 align="center">🚀 Projects</h3>
@@ -53,7 +104,7 @@
 -->
 
 <!-- CONTATO -->
-<h3  align="center">📱 Entrem em contato ✉️</h3>
+<h3  align="center">📱 Sintam-se a vontade para entrar em contato pelos seguintes canais ✉️</h3>
 <p align="center">
       <a href="https://www.linkedin.com/in/renan-justo-995747168/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
