@@ -2,7 +2,7 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="300px" width="300px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="270px" width="270px" align="right">
 
 <div align="left">
   <ul>
@@ -14,9 +14,7 @@
   </ul>
 </div>
   
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-
+<br>
 <hr />
 
 <div align="center">
@@ -25,9 +23,7 @@
 |    Front-End   |    Ferramentas   |
 |      :---:     |       :---:      |
 | <img src="https://skillicons.dev/icons?i=html,css,javascript,scss" /> | <img src="https://skillicons.dev/icons?i=vscode,github" /> |
-
 </div>
-  &nbsp;&nbsp;&nbsp;&nbsp;
 
 <hr />
 
@@ -37,38 +33,14 @@
 |    Frameworks  |   Backend   |
 |     :---:      |    :---:    |
 | <img src="https://skillicons.dev/icons?i=bootstrap,jquery" /> | <img src="https://skillicons.dev/icons?i=firebase" /> |
-
 </div>
-  &nbsp;&nbsp;&nbsp;&nbsp;
 
 <hr />
 
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=renanjusto99&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
-        alt="Github stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanjusto99&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github stats"
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=renanjusto99&theme=dark&hide_border=false"
-        alt="Github stats"
-      />
-    </td>
-  </tr>
-</table>
+#### Estatísticas:
+[<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanjusto99&layout=compact&langs_count=7&theme=radical"/>](https://github.com/)
+[<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/?username=renanjusto99&show_icons=true&include_all_commits=true&theme=radical"/>](https://github.com/)
+[<img height="153px" alt="GitHub Statistics" src="http://github-readme-streak-stats.herokuapp.com/?user=renanjusto99&amp;theme=radical"/>](https://github.com/)
 
 
 <!-- PROJECTS 
